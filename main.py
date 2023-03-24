@@ -44,7 +44,7 @@ def main():
     start_time = time.time()
     elapsed_time = 0
 
-    star_add_increment = 1000
+    star_add_increment = 2000
     star_count = 0
 
     stars = []
